@@ -28,14 +28,15 @@ V-STaR was created to aid in driver awareness by using a raspberry pi 3 to autom
 ## Requirements
 - Only tested on Linux (sys commands may not work on other operating systems)
 - youtube-dl
-- OpenCV
-- Keras
-- Theano
-- Tesseract
-- Python = 2.7
+- OpenCV >= 3.1.0
+- Keras >= 1.0.8
+- Theano >= 0.8.2
+- Tesseract >= 3.05
+- Python >= 2.7.6 (Currently incompatible with python 3.0 or above)
 
 ## Usage
 ./vid_miner [destination]
+- destination is full file path to where sign images are to be saved at. Must end with "/" , e.g: "~/Video/"
 
 ## Installation
 - cd Speed_Sign_Detector
