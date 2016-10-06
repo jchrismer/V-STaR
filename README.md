@@ -27,6 +27,7 @@ V-STaR was created to aid in driver awareness by using a raspberry pi 3 to autom
   
 ## Requirements
 - Only tested on Linux (sys commands may not work on other operating systems)
+- youtube-dl
 - OpenCV
 - Keras
 - Theano
