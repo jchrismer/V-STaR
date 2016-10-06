@@ -7,7 +7,7 @@ Visual-based Speed sign Targeting and Recognition
 V-STaR is a C++ program which automatically detects and labels US speed limit signs from video. 
 
 ## Motivation
-V-STaR was created to aid in driver awareness by using a raspberry pi 3 to automatically recognizing and cataloguing speed limit signs, preventing the driver from missing or forgeting local speeds. Currently it's focus is on autonomous mining of speed limit signs images to be used for further refinement.
+V-STaR was created to aid in driver awareness by using a raspberry pi 3 to automatically recognizing and cataloguing speed limit signs, preventing the driver from missing or forgeting local speeds. Currently its focus is on autonomous mining of speed limit signs images to be used for further refinement.
 
 ## How does it work?
 - Videos are downloaded from a user curated document labeled "URL_list.txt"
