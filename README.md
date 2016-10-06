@@ -37,6 +37,7 @@ V-STaR was created to aid in driver awareness by using a raspberry pi 3 to autom
 ./vid_miner [destination]
 
 ## Installation
+- cd Speed_Sign_Detector
 - mkdir build
 - cd build
 - cmake ..
